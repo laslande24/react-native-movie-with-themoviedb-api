@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ec3b7589-7a25-47f9-b5fc-c6fb199cc6d4"
+      }
+    },
+    "owner": "rlaslande"
   }
 }
